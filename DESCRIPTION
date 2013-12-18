@@ -1,0 +1,9 @@
+Package: drtools
+Type: Package
+Title: dr's tools for R
+Version: 0.0.1
+Date: 2013-12-16
+Author: Daniel Rodriguez Perez
+Maintainer: Daniel Rodriguez Perez <daniel.rodriguez.perez@gmail.com>
+Description: A compilation of different tools for R
+License: GPL-3
